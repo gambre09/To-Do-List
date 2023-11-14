@@ -1,0 +1,17 @@
+Java To-Do List App
+A minimalistic To-Do List application built with Java, providing a straightforward interface to manage your tasks efficiently.
+
+Features:
+- Add Tasks: Easily add tasks to your to-do list.
+- Remove Tasks: Mark tasks as completed and remove them from the list.
+- Clear All Tasks: Clear the entire to-do list in one click.
+- User-Friendly Interface: Simple and intuitive design for easy task management.
+
+Technologies Used:
+- Java
+- Swing (for GUI)
+
+How to Run:
+Compile and run the Java program:
+javac Main.java
+java Main
