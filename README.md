@@ -5,7 +5,7 @@ A minimalistic To-Do List application built with Java, providing a straightforwa
 ![image](https://github.com/gambre09/To-Do-List-App/assets/115577142/3d1ab3ae-a114-4b38-a025-e1b5e86c7928)
 
 
-Features:
+# Features:
 - Add Tasks: Easily add tasks to your to-do list.
 - Remove Tasks: Mark tasks as completed and remove them from the list.
 - Clear All Tasks: Clear the entire to-do list in one click.
