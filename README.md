@@ -11,11 +11,11 @@ Features:
 - Clear All Tasks: Clear the entire to-do list in one click.
 - User-Friendly Interface: Simple and intuitive design for easy task management.
 
-Technologies Used:
+# Technologies Used:
 - Java
 - Swing (for GUI)
 
-How to Run:
+# How to Run:
 Compile and run the Java program:
-javac Main.java
-java Main
+- javac Main.java
+- java Main
